@@ -13,7 +13,7 @@ st.set_page_config(
 bg = """
 <style>
 .stApp {
-    background-image: url('https://cdn.dribbble.com/userupload/22797976/file/original-3b362f19987e09fbeb2b092dc029db17.gif');
+    background-image: url('');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -24,7 +24,7 @@ st.markdown(bg, unsafe_allow_html=True)
 
 # ---------------------- HEADER ----------------------
 st.markdown(
-    "<h1 style='text-align:center; color:white;'>🚗 Bike Issue Predictor</h1>",
+    "<h1 style='text-align:center; color:white;'>Bike Issue Predictor</h1>",
     unsafe_allow_html=True
 )
 
@@ -38,7 +38,7 @@ except:
 
 # ---------------------- INPUT ----------------------
 complaint = st.text_area(
-    "Describe your car complaint:",
+    "Describe your complaint:",
     height=130,
     placeholder="Example: Engine turns off suddenly while driving, no warning lights..."
 )
@@ -83,3 +83,4 @@ st.markdown(
     "<br><center>🔧 Powered by Machine Learning</center>",
     unsafe_allow_html=True
 )
+
