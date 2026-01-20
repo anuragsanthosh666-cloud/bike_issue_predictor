@@ -1,6 +1,0 @@
-sentence-transformers
-torch>=2.5.0
-streamlit
-joblib
-scikit-learn
-pandas
