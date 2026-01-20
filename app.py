@@ -13,7 +13,7 @@ st.set_page_config(
 bg = """
 <style>
 .stApp {
-    background-image: url('');
+    background-image: url('https://plus.unsplash.com/premium_photo-1668373587657-0211ba2b8805?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -83,4 +83,5 @@ st.markdown(
     "<br><center>🔧 Powered by Machine Learning</center>",
     unsafe_allow_html=True
 )
+
 
