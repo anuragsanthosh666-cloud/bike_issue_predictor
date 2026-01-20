@@ -1,0 +1,1001 @@
+complaint_id,bike_brand,bike_model,problem_category,problem_description,mileage_km,manufacturing_year,severity
+1,Bajaj,Splendor,Overheating,Brake pads wearing out too fast,39952,2022,High
+2,Hero,Splendor,Electrical,Poor mileage compared to normal,54258,2024,Medium
+3,Suzuki,Access 125,Brakes,Brake pads wearing out too fast,41827,2015,High
+4,Honda,Pulsar,Suspension,Brake pads wearing out too fast,1064,2019,Medium
+5,Hero,R15,Overheating,Gear shifting feels hard,36438,2024,Medium
+6,Yamaha,Duke 200,Overheating,Brake pads wearing out too fast,32972,2018,Low
+7,KTM,Splendor,Overheating,Brake pads wearing out too fast,31594,2017,Low
+8,TVS,R15,Fuel System,Battery drains quickly,56184,2024,Low
+9,Hero,Pulsar,Fuel System,Excessive vibration at high speed,22549,2023,Low
+10,Royal Enfield,Pulsar,Engine,Gear shifting feels hard,10651,2023,Low
+11,Royal Enfield,Duke 200,Engine,Poor mileage compared to normal,16756,2024,Medium
+12,TVS,Duke 200,Engine,Battery drains quickly,14589,2024,High
+13,Hero,FZ,Suspension,Engine making unusual noise,48899,2017,Low
+14,Honda,Splendor,Fuel System,Overheating during long rides,59391,2019,Medium
+15,TVS,FZ,Transmission,Engine making unusual noise,57695,2018,High
+16,Honda,Classic 350,Fuel System,Excessive vibration at high speed,754,2024,Low
+17,TVS,FZ,Transmission,Overheating during long rides,30390,2024,Low
+18,Royal Enfield,Apache,Electrical,Poor mileage compared to normal,10046,2019,Medium
+19,Yamaha,R15,Suspension,Bike not starting consistently,14504,2020,High
+20,TVS,Pulsar,Transmission,Brake pads wearing out too fast,56228,2018,High
+21,Yamaha,Classic 350,Brakes,Gear shifting feels hard,19241,2019,Low
+22,Suzuki,R15,Electrical,Excessive vibration at high speed,25239,2021,Medium
+23,Honda,Classic 350,Fuel System,Gear shifting feels hard,40048,2016,Low
+24,Honda,Access 125,Engine,Brake pads wearing out too fast,51674,2016,Medium
+25,Suzuki,FZ,Fuel System,Excessive vibration at high speed,53026,2016,Low
+26,Royal Enfield,Access 125,Brakes,Battery drains quickly,20323,2018,Low
+27,TVS,Access 125,Transmission,Battery drains quickly,18693,2015,High
+28,Bajaj,Access 125,Fuel System,Engine making unusual noise,53737,2018,Low
+29,Suzuki,Apache,Transmission,Battery drains quickly,56726,2018,Medium
+30,Honda,Splendor,Electrical,Gear shifting feels hard,5028,2017,Low
+31,Hero,Pulsar,Brakes,Poor mileage compared to normal,25145,2016,Low
+32,KTM,Duke 200,Engine,Engine making unusual noise,25057,2024,Medium
+33,Royal Enfield,Splendor,Engine,Overheating during long rides,30755,2020,Medium
+34,Suzuki,R15,Overheating,Poor mileage compared to normal,25579,2024,Medium
+35,Yamaha,Splendor,Overheating,Engine making unusual noise,51326,2023,Low
+36,Honda,R15,Overheating,Poor mileage compared to normal,40738,2019,Low
+37,KTM,Classic 350,Suspension,Overheating during long rides,52789,2019,High
+38,Hero,FZ,Fuel System,Engine making unusual noise,26441,2019,Medium
+39,Royal Enfield,Apache,Electrical,Bike not starting consistently,57142,2019,High
+40,Royal Enfield,Duke 200,Engine,Bike not starting consistently,42408,2016,High
+41,Bajaj,Classic 350,Overheating,Bike not starting consistently,43711,2015,Low
+42,Honda,Splendor,Electrical,Brake pads wearing out too fast,45034,2022,High
+43,Bajaj,FZ,Electrical,Brake pads wearing out too fast,45828,2018,High
+44,Yamaha,Duke 200,Suspension,Brake pads wearing out too fast,47605,2017,Medium
+45,KTM,FZ,Overheating,Poor mileage compared to normal,53014,2024,High
+46,Suzuki,Duke 200,Brakes,Bike not starting consistently,4663,2015,Medium
+47,Honda,R15,Brakes,Excessive vibration at high speed,55780,2022,Medium
+48,Bajaj,R15,Brakes,Brake pads wearing out too fast,52143,2020,High
+49,Royal Enfield,Classic 350,Transmission,Engine making unusual noise,17291,2015,Low
+50,Royal Enfield,FZ,Brakes,Bike not starting consistently,29404,2015,Low
+51,Royal Enfield,Access 125,Engine,Brake pads wearing out too fast,42323,2018,High
+52,KTM,FZ,Electrical,Excessive vibration at high speed,35223,2021,Medium
+53,Bajaj,Splendor,Suspension,Bike not starting consistently,35495,2021,Low
+54,Hero,FZ,Suspension,Engine making unusual noise,32098,2019,High
+55,Royal Enfield,Pulsar,Electrical,Bike not starting consistently,14570,2016,Medium
+56,Honda,R15,Transmission,Poor mileage compared to normal,7304,2022,Medium
+57,Royal Enfield,Access 125,Brakes,Brake pads wearing out too fast,50994,2017,Low
+58,Bajaj,Apache,Overheating,Overheating during long rides,53145,2018,High
+59,TVS,Splendor,Brakes,Bike not starting consistently,39996,2021,Low
+60,Hero,Classic 350,Fuel System,Poor mileage compared to normal,5167,2015,Medium
+61,Suzuki,Access 125,Brakes,Overheating during long rides,35863,2024,Medium
+62,Suzuki,FZ,Suspension,Poor mileage compared to normal,7950,2016,Medium
+63,Royal Enfield,R15,Electrical,Engine making unusual noise,29247,2015,Medium
+64,Hero,FZ,Engine,Bike not starting consistently,42825,2017,High
+65,TVS,Pulsar,Suspension,Excessive vibration at high speed,32379,2017,Low
+66,Bajaj,Pulsar,Brakes,Excessive vibration at high speed,27375,2023,High
+67,Royal Enfield,Classic 350,Brakes,Brake pads wearing out too fast,22101,2015,Low
+68,Suzuki,Apache,Engine,Brake pads wearing out too fast,41390,2015,High
+69,Suzuki,Pulsar,Fuel System,Bike not starting consistently,22472,2020,Medium
+70,Yamaha,Access 125,Brakes,Gear shifting feels hard,36468,2019,High
+71,Bajaj,R15,Electrical,Engine making unusual noise,28371,2023,High
+72,Honda,Pulsar,Engine,Brake pads wearing out too fast,17508,2017,High
+73,TVS,FZ,Overheating,Battery drains quickly,4730,2022,Low
+74,Bajaj,Apache,Fuel System,Engine making unusual noise,34066,2021,Medium
+75,Honda,FZ,Brakes,Poor mileage compared to normal,36557,2021,High
+76,Suzuki,R15,Engine,Bike not starting consistently,3502,2020,Medium
+77,Yamaha,Duke 200,Overheating,Overheating during long rides,37511,2019,High
+78,KTM,Duke 200,Transmission,Battery drains quickly,49679,2017,Low
+79,Royal Enfield,Duke 200,Fuel System,Overheating during long rides,45778,2020,Low
+80,Royal Enfield,Duke 200,Transmission,Excessive vibration at high speed,36082,2022,Low
+81,Suzuki,Pulsar,Electrical,Excessive vibration at high speed,10066,2023,High
+82,Honda,FZ,Fuel System,Engine making unusual noise,13075,2015,High
+83,Honda,Splendor,Brakes,Poor mileage compared to normal,22168,2020,Medium
+84,KTM,Splendor,Brakes,Engine making unusual noise,2358,2017,High
+85,Hero,Splendor,Electrical,Engine making unusual noise,11774,2017,Low
+86,KTM,FZ,Fuel System,Brake pads wearing out too fast,4264,2016,High
+87,Suzuki,FZ,Transmission,Excessive vibration at high speed,17311,2024,Medium
+88,Royal Enfield,Splendor,Brakes,Brake pads wearing out too fast,48057,2020,Medium
+89,KTM,Classic 350,Electrical,Battery drains quickly,54557,2018,Low
+90,Suzuki,Access 125,Engine,Battery drains quickly,19442,2017,Low
+91,Royal Enfield,Access 125,Fuel System,Brake pads wearing out too fast,51875,2023,High
+92,Royal Enfield,Classic 350,Suspension,Excessive vibration at high speed,34624,2015,High
+93,TVS,Apache,Engine,Gear shifting feels hard,41764,2024,Medium
+94,Yamaha,R15,Brakes,Poor mileage compared to normal,31609,2016,Low
+95,Honda,Splendor,Overheating,Battery drains quickly,31742,2021,Low
+96,KTM,Classic 350,Fuel System,Battery drains quickly,32592,2017,High
+97,Honda,Pulsar,Suspension,Gear shifting feels hard,15260,2022,Medium
+98,Suzuki,R15,Engine,Excessive vibration at high speed,46411,2024,Low
+99,KTM,Pulsar,Suspension,Brake pads wearing out too fast,35614,2017,Medium
+100,Bajaj,FZ,Electrical,Excessive vibration at high speed,45712,2024,High
+101,Hero,R15,Overheating,Brake pads wearing out too fast,28010,2021,High
+102,Bajaj,Pulsar,Overheating,Brake pads wearing out too fast,12840,2017,High
+103,TVS,FZ,Engine,Battery drains quickly,44917,2019,Medium
+104,Yamaha,Duke 200,Overheating,Poor mileage compared to normal,7499,2023,Low
+105,Honda,R15,Brakes,Bike not starting consistently,14460,2020,High
+106,Suzuki,FZ,Transmission,Gear shifting feels hard,40693,2021,Low
+107,TVS,R15,Fuel System,Overheating during long rides,5307,2020,Low
+108,Bajaj,Splendor,Overheating,Bike not starting consistently,59954,2020,Low
+109,Bajaj,Pulsar,Suspension,Gear shifting feels hard,36827,2023,High
+110,KTM,Duke 200,Fuel System,Gear shifting feels hard,54717,2017,High
+111,Honda,R15,Fuel System,Gear shifting feels hard,16408,2019,Medium
+112,Hero,FZ,Transmission,Engine making unusual noise,22517,2016,Medium
+113,Bajaj,FZ,Engine,Overheating during long rides,42051,2016,High
+114,TVS,Classic 350,Fuel System,Brake pads wearing out too fast,6421,2016,Medium
+115,Royal Enfield,FZ,Electrical,Engine making unusual noise,17473,2018,Low
+116,Honda,Duke 200,Transmission,Bike not starting consistently,59773,2024,High
+117,Yamaha,Classic 350,Electrical,Excessive vibration at high speed,39763,2018,Low
+118,Suzuki,R15,Engine,Engine making unusual noise,38320,2024,Medium
+119,Yamaha,Apache,Overheating,Excessive vibration at high speed,18977,2022,High
+120,Yamaha,Duke 200,Transmission,Bike not starting consistently,47542,2019,Medium
+121,Hero,Access 125,Electrical,Bike not starting consistently,42329,2016,Medium
+122,KTM,Splendor,Suspension,Overheating during long rides,16063,2021,Low
+123,Yamaha,Classic 350,Electrical,Bike not starting consistently,9059,2018,Low
+124,Suzuki,R15,Suspension,Poor mileage compared to normal,10633,2024,Low
+125,Yamaha,Splendor,Suspension,Engine making unusual noise,50154,2021,Low
+126,Bajaj,Classic 350,Fuel System,Overheating during long rides,21278,2015,High
+127,KTM,Apache,Fuel System,Overheating during long rides,28692,2018,High
+128,Hero,Access 125,Engine,Poor mileage compared to normal,11915,2021,Medium
+129,Hero,Splendor,Suspension,Overheating during long rides,48878,2020,Low
+130,KTM,Apache,Suspension,Overheating during long rides,25283,2015,Medium
+131,TVS,Access 125,Brakes,Brake pads wearing out too fast,59150,2017,Medium
+132,Bajaj,Classic 350,Brakes,Gear shifting feels hard,29903,2021,Low
+133,Honda,Pulsar,Engine,Brake pads wearing out too fast,7087,2024,Low
+134,Bajaj,Access 125,Electrical,Excessive vibration at high speed,32123,2022,Medium
+135,Bajaj,Apache,Engine,Bike not starting consistently,58577,2016,High
+136,Honda,FZ,Engine,Overheating during long rides,5866,2021,High
+137,Bajaj,Apache,Engine,Excessive vibration at high speed,59408,2020,Medium
+138,Hero,Access 125,Engine,Engine making unusual noise,25399,2015,Medium
+139,Yamaha,Apache,Suspension,Bike not starting consistently,17968,2019,High
+140,Royal Enfield,Splendor,Fuel System,Overheating during long rides,37244,2019,Medium
+141,KTM,FZ,Electrical,Brake pads wearing out too fast,21843,2023,High
+142,Suzuki,Classic 350,Electrical,Overheating during long rides,33392,2018,Medium
+143,Yamaha,Splendor,Suspension,Battery drains quickly,20017,2016,Low
+144,Royal Enfield,Apache,Electrical,Excessive vibration at high speed,40970,2023,Low
+145,TVS,Duke 200,Fuel System,Engine making unusual noise,56575,2017,Low
+146,Royal Enfield,Pulsar,Overheating,Bike not starting consistently,6017,2018,Medium
+147,Bajaj,Splendor,Suspension,Poor mileage compared to normal,8434,2022,Medium
+148,Yamaha,Apache,Suspension,Engine making unusual noise,15423,2019,High
+149,Honda,Splendor,Transmission,Bike not starting consistently,53456,2018,Low
+150,KTM,Apache,Transmission,Battery drains quickly,26304,2024,Medium
+151,KTM,Access 125,Engine,Excessive vibration at high speed,31299,2016,High
+152,Royal Enfield,Access 125,Suspension,Gear shifting feels hard,12253,2021,Low
+153,TVS,Access 125,Transmission,Excessive vibration at high speed,7413,2020,Low
+154,Yamaha,R15,Engine,Overheating during long rides,44187,2015,Medium
+155,Yamaha,Classic 350,Overheating,Brake pads wearing out too fast,1834,2015,Medium
+156,Honda,Classic 350,Transmission,Engine making unusual noise,12718,2017,Medium
+157,TVS,Apache,Electrical,Gear shifting feels hard,23140,2020,Medium
+158,Suzuki,Classic 350,Transmission,Engine making unusual noise,4026,2023,Low
+159,Yamaha,Access 125,Brakes,Gear shifting feels hard,9824,2020,Medium
+160,Honda,Classic 350,Overheating,Engine making unusual noise,41676,2024,Medium
+161,Hero,FZ,Suspension,Poor mileage compared to normal,21950,2016,Medium
+162,Hero,Access 125,Transmission,Engine making unusual noise,20208,2022,High
+163,Yamaha,Classic 350,Electrical,Brake pads wearing out too fast,19117,2016,High
+164,Royal Enfield,Duke 200,Suspension,Bike not starting consistently,15118,2016,High
+165,TVS,FZ,Overheating,Gear shifting feels hard,50378,2015,Medium
+166,Hero,Classic 350,Electrical,Poor mileage compared to normal,19158,2023,High
+167,KTM,R15,Brakes,Poor mileage compared to normal,20576,2019,Low
+168,Hero,Classic 350,Electrical,Brake pads wearing out too fast,49361,2023,Low
+169,TVS,Pulsar,Transmission,Bike not starting consistently,40491,2017,Low
+170,Hero,FZ,Electrical,Excessive vibration at high speed,51914,2017,Medium
+171,Royal Enfield,FZ,Overheating,Bike not starting consistently,27735,2019,Low
+172,Hero,Access 125,Overheating,Excessive vibration at high speed,8195,2019,Low
+173,Suzuki,Classic 350,Electrical,Gear shifting feels hard,21744,2017,Low
+174,KTM,FZ,Engine,Overheating during long rides,54928,2015,High
+175,Honda,Apache,Overheating,Battery drains quickly,8369,2021,Low
+176,Bajaj,Duke 200,Engine,Excessive vibration at high speed,11559,2022,Medium
+177,Royal Enfield,Classic 350,Engine,Gear shifting feels hard,11578,2024,Medium
+178,Hero,FZ,Overheating,Poor mileage compared to normal,45738,2021,Low
+179,KTM,Pulsar,Overheating,Gear shifting feels hard,34699,2019,Low
+180,Suzuki,FZ,Suspension,Bike not starting consistently,44872,2023,Low
+181,Bajaj,Apache,Fuel System,Poor mileage compared to normal,776,2023,Medium
+182,Royal Enfield,FZ,Electrical,Poor mileage compared to normal,15747,2019,Medium
+183,Yamaha,Duke 200,Engine,Gear shifting feels hard,14708,2017,Low
+184,Hero,Access 125,Overheating,Excessive vibration at high speed,36239,2016,Low
+185,Bajaj,Access 125,Suspension,Battery drains quickly,21218,2019,Low
+186,Hero,Duke 200,Transmission,Battery drains quickly,25192,2021,High
+187,Bajaj,R15,Suspension,Overheating during long rides,15439,2021,Low
+188,Suzuki,Splendor,Engine,Poor mileage compared to normal,43166,2017,Low
+189,Yamaha,Classic 350,Electrical,Brake pads wearing out too fast,44395,2019,High
+190,Bajaj,Duke 200,Overheating,Overheating during long rides,46846,2022,Low
+191,TVS,Pulsar,Engine,Bike not starting consistently,5132,2017,High
+192,Yamaha,FZ,Suspension,Engine making unusual noise,43556,2019,High
+193,Hero,Classic 350,Overheating,Engine making unusual noise,41133,2020,High
+194,KTM,Splendor,Suspension,Excessive vibration at high speed,22954,2020,Low
+195,Suzuki,Splendor,Engine,Excessive vibration at high speed,57919,2017,Medium
+196,Bajaj,Classic 350,Engine,Battery drains quickly,16032,2015,Medium
+197,KTM,Duke 200,Overheating,Overheating during long rides,30904,2018,Medium
+198,Hero,R15,Transmission,Poor mileage compared to normal,42324,2024,Medium
+199,KTM,Access 125,Electrical,Excessive vibration at high speed,50975,2017,Medium
+200,Yamaha,Splendor,Transmission,Overheating during long rides,55396,2022,Low
+201,Royal Enfield,Duke 200,Brakes,Engine making unusual noise,9324,2018,Low
+202,Royal Enfield,Classic 350,Suspension,Gear shifting feels hard,10895,2015,Low
+203,Suzuki,Apache,Engine,Gear shifting feels hard,17923,2024,High
+204,Yamaha,Apache,Engine,Gear shifting feels hard,29901,2017,Medium
+205,Royal Enfield,Splendor,Fuel System,Overheating during long rides,10632,2021,Medium
+206,KTM,R15,Engine,Brake pads wearing out too fast,36338,2020,Low
+207,KTM,Access 125,Electrical,Bike not starting consistently,46426,2024,Low
+208,Hero,R15,Electrical,Gear shifting feels hard,39651,2016,Low
+209,Royal Enfield,FZ,Engine,Gear shifting feels hard,1084,2024,Medium
+210,Yamaha,Access 125,Overheating,Overheating during long rides,1709,2024,High
+211,Honda,Splendor,Transmission,Overheating during long rides,33891,2017,High
+212,KTM,Apache,Engine,Bike not starting consistently,37165,2020,Low
+213,Hero,Apache,Electrical,Engine making unusual noise,39763,2021,High
+214,Yamaha,Access 125,Fuel System,Battery drains quickly,21160,2016,Low
+215,Yamaha,Access 125,Fuel System,Excessive vibration at high speed,45447,2023,Medium
+216,Yamaha,R15,Fuel System,Overheating during long rides,3700,2023,High
+217,TVS,Splendor,Suspension,Bike not starting consistently,20563,2019,High
+218,Hero,Duke 200,Transmission,Bike not starting consistently,24394,2024,Medium
+219,Honda,Pulsar,Transmission,Excessive vibration at high speed,59284,2024,High
+220,TVS,Access 125,Electrical,Battery drains quickly,48380,2024,Medium
+221,Hero,R15,Suspension,Bike not starting consistently,24953,2022,Low
+222,Honda,Duke 200,Engine,Gear shifting feels hard,59092,2015,Low
+223,KTM,Duke 200,Overheating,Excessive vibration at high speed,56318,2018,Low
+224,TVS,R15,Overheating,Bike not starting consistently,1078,2022,High
+225,Yamaha,Duke 200,Overheating,Poor mileage compared to normal,15137,2018,Medium
+226,Honda,Access 125,Overheating,Overheating during long rides,46133,2022,Medium
+227,TVS,Splendor,Fuel System,Bike not starting consistently,58169,2016,Medium
+228,Bajaj,Access 125,Fuel System,Gear shifting feels hard,42378,2019,Low
+229,Suzuki,Apache,Brakes,Engine making unusual noise,48105,2020,Medium
+230,Yamaha,Classic 350,Brakes,Battery drains quickly,8771,2017,Low
+231,Bajaj,Classic 350,Transmission,Overheating during long rides,23304,2015,High
+232,KTM,Classic 350,Brakes,Engine making unusual noise,23441,2016,Medium
+233,KTM,Pulsar,Fuel System,Battery drains quickly,23075,2018,High
+234,Royal Enfield,Pulsar,Brakes,Poor mileage compared to normal,45528,2019,Low
+235,Bajaj,Duke 200,Engine,Gear shifting feels hard,17681,2024,High
+236,Honda,Pulsar,Electrical,Gear shifting feels hard,9326,2016,High
+237,Yamaha,Pulsar,Transmission,Engine making unusual noise,43062,2018,Low
+238,Hero,FZ,Suspension,Poor mileage compared to normal,27643,2024,Low
+239,Yamaha,Classic 350,Fuel System,Engine making unusual noise,44978,2016,High
+240,Suzuki,Access 125,Engine,Bike not starting consistently,20964,2018,Medium
+241,Suzuki,Duke 200,Brakes,Excessive vibration at high speed,737,2024,Medium
+242,Yamaha,Duke 200,Fuel System,Overheating during long rides,37699,2020,Medium
+243,KTM,Duke 200,Engine,Bike not starting consistently,40040,2016,Low
+244,Honda,Access 125,Transmission,Poor mileage compared to normal,37467,2016,Low
+245,Honda,FZ,Engine,Poor mileage compared to normal,28056,2023,Low
+246,TVS,Access 125,Brakes,Brake pads wearing out too fast,5853,2020,High
+247,KTM,Pulsar,Fuel System,Excessive vibration at high speed,44980,2022,Low
+248,Honda,Splendor,Overheating,Excessive vibration at high speed,21432,2016,Low
+249,Suzuki,Apache,Suspension,Engine making unusual noise,11998,2017,High
+250,Hero,Access 125,Suspension,Poor mileage compared to normal,22291,2021,Medium
+251,Honda,Classic 350,Overheating,Overheating during long rides,45335,2017,Medium
+252,Suzuki,Access 125,Overheating,Overheating during long rides,37436,2017,Medium
+253,Honda,Access 125,Electrical,Battery drains quickly,46385,2020,Medium
+254,Royal Enfield,Access 125,Fuel System,Battery drains quickly,47655,2019,Low
+255,Honda,R15,Overheating,Battery drains quickly,46843,2019,Low
+256,Yamaha,Splendor,Overheating,Poor mileage compared to normal,31184,2015,Medium
+257,Honda,FZ,Electrical,Excessive vibration at high speed,8951,2022,Medium
+258,Royal Enfield,Apache,Overheating,Poor mileage compared to normal,55582,2018,Medium
+259,TVS,Apache,Electrical,Poor mileage compared to normal,4275,2024,Low
+260,Royal Enfield,FZ,Engine,Brake pads wearing out too fast,18019,2020,Low
+261,Yamaha,Apache,Suspension,Brake pads wearing out too fast,55681,2020,Low
+262,Royal Enfield,R15,Transmission,Excessive vibration at high speed,50226,2022,Medium
+263,Suzuki,Apache,Brakes,Excessive vibration at high speed,47688,2024,Low
+264,Yamaha,Apache,Fuel System,Gear shifting feels hard,31411,2020,Low
+265,KTM,Pulsar,Suspension,Bike not starting consistently,4637,2015,Medium
+266,Royal Enfield,Splendor,Engine,Excessive vibration at high speed,40962,2022,High
+267,Suzuki,Splendor,Suspension,Battery drains quickly,48408,2015,Medium
+268,Yamaha,Splendor,Transmission,Brake pads wearing out too fast,19318,2021,High
+269,Suzuki,Splendor,Fuel System,Brake pads wearing out too fast,19060,2021,High
+270,Hero,FZ,Overheating,Battery drains quickly,36598,2021,High
+271,Honda,Apache,Transmission,Bike not starting consistently,45232,2017,High
+272,Yamaha,Access 125,Suspension,Battery drains quickly,20389,2022,Low
+273,Hero,FZ,Overheating,Brake pads wearing out too fast,57350,2022,High
+274,Yamaha,Duke 200,Engine,Overheating during long rides,41777,2015,High
+275,Royal Enfield,Classic 350,Overheating,Overheating during long rides,2099,2018,High
+276,KTM,FZ,Engine,Overheating during long rides,57453,2016,Medium
+277,Suzuki,FZ,Transmission,Brake pads wearing out too fast,48075,2015,High
+278,Royal Enfield,Apache,Engine,Bike not starting consistently,10798,2015,Low
+279,TVS,FZ,Brakes,Engine making unusual noise,21270,2018,Medium
+280,Yamaha,Access 125,Fuel System,Overheating during long rides,5168,2019,Low
+281,Honda,R15,Suspension,Battery drains quickly,8652,2022,Low
+282,TVS,Apache,Brakes,Overheating during long rides,22274,2024,Medium
+283,KTM,Duke 200,Engine,Poor mileage compared to normal,41838,2016,High
+284,Bajaj,Splendor,Engine,Engine making unusual noise,37817,2021,High
+285,TVS,Access 125,Fuel System,Poor mileage compared to normal,36648,2022,High
+286,Honda,Access 125,Transmission,Brake pads wearing out too fast,34357,2018,Low
+287,Bajaj,FZ,Overheating,Bike not starting consistently,38439,2023,Medium
+288,Honda,Duke 200,Fuel System,Poor mileage compared to normal,3028,2022,Medium
+289,Yamaha,Apache,Electrical,Bike not starting consistently,40003,2024,High
+290,Honda,FZ,Suspension,Gear shifting feels hard,40679,2017,Low
+291,Suzuki,FZ,Suspension,Bike not starting consistently,35429,2022,Low
+292,Royal Enfield,Classic 350,Suspension,Excessive vibration at high speed,55954,2017,Medium
+293,KTM,Pulsar,Engine,Gear shifting feels hard,26411,2019,High
+294,Hero,R15,Overheating,Overheating during long rides,41948,2017,High
+295,Royal Enfield,Apache,Brakes,Poor mileage compared to normal,29579,2017,Low
+296,TVS,FZ,Overheating,Poor mileage compared to normal,21842,2019,Medium
+297,Yamaha,Pulsar,Transmission,Engine making unusual noise,54924,2017,High
+298,Honda,Pulsar,Transmission,Brake pads wearing out too fast,25629,2020,Low
+299,Bajaj,Splendor,Engine,Overheating during long rides,8021,2015,Low
+300,Yamaha,R15,Suspension,Poor mileage compared to normal,7317,2017,Low
+301,TVS,Pulsar,Overheating,Poor mileage compared to normal,52698,2019,Medium
+302,Yamaha,Splendor,Suspension,Excessive vibration at high speed,8754,2016,High
+303,Royal Enfield,Splendor,Fuel System,Battery drains quickly,44078,2021,High
+304,Royal Enfield,Pulsar,Overheating,Overheating during long rides,45744,2016,Low
+305,Yamaha,Pulsar,Engine,Engine making unusual noise,9543,2021,High
+306,Bajaj,FZ,Engine,Gear shifting feels hard,56888,2023,Low
+307,Yamaha,Classic 350,Transmission,Gear shifting feels hard,40002,2023,Medium
+308,Hero,Duke 200,Engine,Poor mileage compared to normal,32107,2021,High
+309,Honda,Pulsar,Electrical,Bike not starting consistently,27701,2017,High
+310,Bajaj,Classic 350,Suspension,Overheating during long rides,56069,2024,Low
+311,Hero,FZ,Engine,Brake pads wearing out too fast,16425,2018,Low
+312,Royal Enfield,Duke 200,Electrical,Brake pads wearing out too fast,20927,2020,Medium
+313,Royal Enfield,Apache,Engine,Battery drains quickly,54063,2020,Low
+314,Bajaj,Duke 200,Transmission,Battery drains quickly,1367,2024,High
+315,Suzuki,Splendor,Brakes,Gear shifting feels hard,16805,2016,High
+316,Suzuki,Splendor,Electrical,Engine making unusual noise,25637,2019,High
+317,Honda,Pulsar,Suspension,Overheating during long rides,38676,2018,Low
+318,Hero,Apache,Fuel System,Bike not starting consistently,17435,2015,Low
+319,Honda,R15,Electrical,Battery drains quickly,42908,2020,Medium
+320,Royal Enfield,FZ,Electrical,Engine making unusual noise,3211,2016,Low
+321,KTM,Access 125,Brakes,Engine making unusual noise,40213,2022,Medium
+322,KTM,Duke 200,Fuel System,Engine making unusual noise,10491,2016,High
+323,TVS,Pulsar,Overheating,Poor mileage compared to normal,5281,2015,High
+324,Royal Enfield,Pulsar,Electrical,Brake pads wearing out too fast,52059,2018,High
+325,Hero,R15,Transmission,Gear shifting feels hard,50793,2020,Medium
+326,Bajaj,Apache,Fuel System,Brake pads wearing out too fast,9709,2018,Low
+327,Suzuki,Apache,Engine,Engine making unusual noise,8668,2021,High
+328,TVS,Pulsar,Fuel System,Gear shifting feels hard,9346,2021,Medium
+329,KTM,Apache,Brakes,Excessive vibration at high speed,58469,2023,Low
+330,Honda,Apache,Engine,Engine making unusual noise,8747,2021,Medium
+331,TVS,Pulsar,Overheating,Poor mileage compared to normal,23097,2018,Medium
+332,Royal Enfield,Pulsar,Electrical,Bike not starting consistently,20365,2016,Low
+333,Suzuki,Access 125,Transmission,Overheating during long rides,14691,2019,High
+334,Suzuki,Splendor,Overheating,Engine making unusual noise,33102,2023,High
+335,TVS,Splendor,Transmission,Gear shifting feels hard,14206,2019,High
+336,Bajaj,Duke 200,Engine,Brake pads wearing out too fast,28724,2023,High
+337,Royal Enfield,Access 125,Transmission,Overheating during long rides,47703,2021,Low
+338,KTM,Apache,Electrical,Brake pads wearing out too fast,19580,2018,High
+339,Yamaha,Access 125,Engine,Gear shifting feels hard,19251,2016,Low
+340,Honda,FZ,Engine,Overheating during long rides,48860,2019,Low
+341,Bajaj,Pulsar,Overheating,Engine making unusual noise,18949,2015,Low
+342,Royal Enfield,Pulsar,Overheating,Overheating during long rides,19183,2020,Low
+343,Bajaj,Apache,Transmission,Engine making unusual noise,15193,2018,High
+344,Yamaha,Pulsar,Engine,Poor mileage compared to normal,43550,2023,Low
+345,TVS,Pulsar,Suspension,Gear shifting feels hard,22041,2023,Low
+346,Hero,Duke 200,Engine,Excessive vibration at high speed,25993,2018,Low
+347,Yamaha,R15,Suspension,Bike not starting consistently,37673,2023,Medium
+348,KTM,Splendor,Engine,Brake pads wearing out too fast,48844,2019,Low
+349,Bajaj,R15,Overheating,Engine making unusual noise,34622,2018,Medium
+350,Royal Enfield,Access 125,Transmission,Bike not starting consistently,13077,2019,Medium
+351,Bajaj,R15,Overheating,Brake pads wearing out too fast,49138,2023,Low
+352,Suzuki,Duke 200,Engine,Battery drains quickly,19918,2020,High
+353,Honda,R15,Electrical,Gear shifting feels hard,25739,2015,Medium
+354,Suzuki,R15,Transmission,Bike not starting consistently,55363,2020,High
+355,Honda,Duke 200,Electrical,Engine making unusual noise,29275,2022,Medium
+356,Yamaha,R15,Suspension,Engine making unusual noise,48978,2024,Medium
+357,Suzuki,Apache,Engine,Brake pads wearing out too fast,56717,2024,Low
+358,KTM,Pulsar,Suspension,Overheating during long rides,43951,2017,Low
+359,TVS,Pulsar,Electrical,Bike not starting consistently,3787,2016,High
+360,Suzuki,Pulsar,Suspension,Brake pads wearing out too fast,7019,2022,High
+361,Honda,Pulsar,Electrical,Battery drains quickly,34315,2021,Medium
+362,TVS,Access 125,Electrical,Engine making unusual noise,17282,2019,High
+363,Honda,Classic 350,Brakes,Battery drains quickly,26228,2020,High
+364,Bajaj,Apache,Suspension,Bike not starting consistently,20503,2015,Medium
+365,Honda,R15,Fuel System,Battery drains quickly,11746,2015,Medium
+366,KTM,Pulsar,Suspension,Engine making unusual noise,37693,2015,High
+367,Honda,Pulsar,Electrical,Overheating during long rides,47947,2016,Medium
+368,Royal Enfield,Splendor,Suspension,Brake pads wearing out too fast,40316,2017,Low
+369,Bajaj,Pulsar,Engine,Bike not starting consistently,55802,2023,Medium
+370,Hero,Splendor,Engine,Gear shifting feels hard,11202,2019,Medium
+371,Royal Enfield,Access 125,Fuel System,Bike not starting consistently,544,2017,Low
+372,Royal Enfield,Apache,Fuel System,Poor mileage compared to normal,19797,2018,High
+373,Yamaha,Splendor,Overheating,Brake pads wearing out too fast,41289,2016,High
+374,Suzuki,Splendor,Brakes,Battery drains quickly,52304,2015,Low
+375,Honda,R15,Engine,Brake pads wearing out too fast,46727,2024,High
+376,Hero,FZ,Electrical,Battery drains quickly,18048,2020,Low
+377,Honda,Classic 350,Transmission,Brake pads wearing out too fast,13569,2019,Medium
+378,Suzuki,Access 125,Engine,Brake pads wearing out too fast,43422,2024,High
+379,Bajaj,Splendor,Fuel System,Poor mileage compared to normal,8218,2016,Low
+380,KTM,Duke 200,Electrical,Brake pads wearing out too fast,57674,2015,Low
+381,TVS,Classic 350,Brakes,Gear shifting feels hard,29662,2022,Medium
+382,Hero,R15,Suspension,Bike not starting consistently,12440,2017,Low
+383,Honda,R15,Suspension,Poor mileage compared to normal,38060,2018,High
+384,TVS,Pulsar,Transmission,Excessive vibration at high speed,19719,2023,High
+385,KTM,Duke 200,Brakes,Overheating during long rides,15161,2015,Low
+386,Bajaj,Access 125,Transmission,Overheating during long rides,55636,2019,Medium
+387,Honda,FZ,Engine,Overheating during long rides,14541,2022,Low
+388,Bajaj,Apache,Overheating,Excessive vibration at high speed,21547,2022,High
+389,Suzuki,FZ,Suspension,Poor mileage compared to normal,34991,2019,Medium
+390,Honda,Access 125,Engine,Battery drains quickly,8018,2024,High
+391,Suzuki,Access 125,Engine,Gear shifting feels hard,20951,2021,Low
+392,TVS,Classic 350,Engine,Bike not starting consistently,15010,2016,High
+393,Suzuki,Splendor,Suspension,Brake pads wearing out too fast,40806,2017,High
+394,Royal Enfield,Splendor,Brakes,Bike not starting consistently,26715,2023,Medium
+395,KTM,Classic 350,Overheating,Gear shifting feels hard,22923,2019,High
+396,KTM,Classic 350,Overheating,Overheating during long rides,44789,2015,Medium
+397,KTM,FZ,Suspension,Bike not starting consistently,4984,2022,Medium
+398,Bajaj,Classic 350,Transmission,Brake pads wearing out too fast,7678,2016,Low
+399,KTM,Splendor,Brakes,Gear shifting feels hard,47785,2015,Medium
+400,Royal Enfield,Duke 200,Transmission,Engine making unusual noise,21108,2016,Medium
+401,KTM,FZ,Fuel System,Overheating during long rides,19886,2024,Medium
+402,Honda,Duke 200,Electrical,Bike not starting consistently,27282,2022,Medium
+403,Honda,R15,Brakes,Engine making unusual noise,1546,2018,Medium
+404,KTM,Duke 200,Engine,Engine making unusual noise,32281,2020,High
+405,TVS,R15,Overheating,Bike not starting consistently,42115,2021,High
+406,Yamaha,Duke 200,Engine,Excessive vibration at high speed,17772,2023,Medium
+407,Honda,Splendor,Suspension,Bike not starting consistently,27838,2015,Medium
+408,KTM,Duke 200,Transmission,Bike not starting consistently,24203,2024,Medium
+409,Yamaha,Pulsar,Overheating,Engine making unusual noise,41840,2018,Medium
+410,Hero,Classic 350,Overheating,Battery drains quickly,5246,2022,Low
+411,Suzuki,R15,Engine,Engine making unusual noise,24719,2023,High
+412,Yamaha,FZ,Electrical,Excessive vibration at high speed,33221,2024,Medium
+413,KTM,Classic 350,Transmission,Excessive vibration at high speed,13219,2023,High
+414,Royal Enfield,R15,Suspension,Bike not starting consistently,21500,2021,Medium
+415,Royal Enfield,Access 125,Engine,Bike not starting consistently,30058,2024,Medium
+416,Bajaj,Access 125,Suspension,Bike not starting consistently,25906,2024,High
+417,Royal Enfield,Splendor,Transmission,Excessive vibration at high speed,18183,2017,High
+418,Royal Enfield,Apache,Overheating,Brake pads wearing out too fast,27413,2017,Low
+419,Yamaha,Pulsar,Overheating,Bike not starting consistently,18905,2016,High
+420,Hero,Classic 350,Electrical,Brake pads wearing out too fast,33404,2022,High
+421,Royal Enfield,Access 125,Electrical,Engine making unusual noise,33486,2021,Low
+422,KTM,Access 125,Fuel System,Excessive vibration at high speed,42457,2021,Medium
+423,Bajaj,Duke 200,Transmission,Bike not starting consistently,5153,2020,Low
+424,Suzuki,R15,Fuel System,Overheating during long rides,28934,2016,Low
+425,Honda,Apache,Suspension,Poor mileage compared to normal,37476,2018,Low
+426,Bajaj,FZ,Fuel System,Gear shifting feels hard,37574,2023,High
+427,Hero,FZ,Brakes,Gear shifting feels hard,54422,2017,Medium
+428,Honda,Splendor,Overheating,Brake pads wearing out too fast,4504,2020,Medium
+429,Suzuki,Access 125,Fuel System,Brake pads wearing out too fast,31111,2020,Low
+430,Royal Enfield,Splendor,Overheating,Brake pads wearing out too fast,18169,2023,Low
+431,Yamaha,Duke 200,Suspension,Bike not starting consistently,36044,2020,Medium
+432,Honda,Splendor,Transmission,Gear shifting feels hard,47216,2016,Low
+433,Yamaha,FZ,Transmission,Bike not starting consistently,42336,2022,Medium
+434,Honda,Duke 200,Suspension,Bike not starting consistently,40537,2015,High
+435,Hero,Splendor,Brakes,Excessive vibration at high speed,4681,2019,Medium
+436,Yamaha,Access 125,Brakes,Bike not starting consistently,37825,2023,High
+437,Hero,Splendor,Fuel System,Brake pads wearing out too fast,24453,2015,High
+438,Bajaj,Classic 350,Electrical,Gear shifting feels hard,9899,2022,High
+439,Hero,Apache,Engine,Engine making unusual noise,38803,2015,Medium
+440,Yamaha,Duke 200,Electrical,Gear shifting feels hard,47931,2018,High
+441,Hero,Splendor,Fuel System,Battery drains quickly,52518,2016,Medium
+442,Honda,Splendor,Electrical,Engine making unusual noise,42990,2020,Low
+443,Bajaj,Classic 350,Electrical,Overheating during long rides,26881,2018,Low
+444,Hero,R15,Transmission,Battery drains quickly,18586,2017,High
+445,Honda,Classic 350,Fuel System,Overheating during long rides,35099,2019,Medium
+446,Yamaha,Apache,Transmission,Bike not starting consistently,6831,2018,Medium
+447,Bajaj,Splendor,Fuel System,Poor mileage compared to normal,50316,2019,Medium
+448,Bajaj,Apache,Fuel System,Engine making unusual noise,30302,2024,High
+449,Royal Enfield,Duke 200,Electrical,Engine making unusual noise,44569,2019,High
+450,Yamaha,Splendor,Suspension,Excessive vibration at high speed,55410,2019,Medium
+451,KTM,Apache,Overheating,Poor mileage compared to normal,36047,2024,Medium
+452,Suzuki,R15,Brakes,Poor mileage compared to normal,21505,2017,Medium
+453,Honda,R15,Fuel System,Gear shifting feels hard,30428,2021,Low
+454,Bajaj,Classic 350,Fuel System,Battery drains quickly,41707,2018,Low
+455,Bajaj,FZ,Fuel System,Gear shifting feels hard,45766,2024,Medium
+456,Yamaha,Access 125,Overheating,Bike not starting consistently,40232,2023,Medium
+457,KTM,R15,Transmission,Battery drains quickly,43382,2022,High
+458,TVS,Access 125,Fuel System,Excessive vibration at high speed,27055,2016,Medium
+459,Bajaj,FZ,Electrical,Brake pads wearing out too fast,14947,2015,High
+460,Suzuki,Apache,Transmission,Bike not starting consistently,15451,2021,High
+461,Royal Enfield,R15,Fuel System,Overheating during long rides,43267,2022,High
+462,Yamaha,Splendor,Electrical,Engine making unusual noise,33414,2017,Low
+463,Hero,Apache,Engine,Poor mileage compared to normal,38895,2017,Low
+464,KTM,Access 125,Fuel System,Excessive vibration at high speed,35282,2024,High
+465,Suzuki,Splendor,Transmission,Excessive vibration at high speed,52765,2020,High
+466,Honda,Pulsar,Engine,Engine making unusual noise,35111,2017,Medium
+467,Suzuki,Apache,Suspension,Battery drains quickly,40128,2017,Low
+468,Bajaj,Access 125,Transmission,Battery drains quickly,21274,2018,Low
+469,Yamaha,Apache,Transmission,Brake pads wearing out too fast,19279,2015,Medium
+470,Honda,R15,Fuel System,Poor mileage compared to normal,5453,2021,Low
+471,Yamaha,Pulsar,Fuel System,Gear shifting feels hard,3231,2023,High
+472,Hero,Access 125,Suspension,Excessive vibration at high speed,11519,2023,High
+473,Royal Enfield,R15,Overheating,Overheating during long rides,27263,2017,Low
+474,Honda,Apache,Electrical,Bike not starting consistently,44207,2018,Low
+475,KTM,FZ,Overheating,Excessive vibration at high speed,24688,2023,High
+476,Bajaj,Duke 200,Fuel System,Gear shifting feels hard,52464,2017,Low
+477,Honda,Apache,Brakes,Bike not starting consistently,22077,2021,Medium
+478,TVS,Splendor,Engine,Excessive vibration at high speed,36508,2021,High
+479,Yamaha,Pulsar,Engine,Engine making unusual noise,5786,2015,Medium
+480,Bajaj,Access 125,Electrical,Engine making unusual noise,8400,2023,Medium
+481,Hero,Apache,Electrical,Overheating during long rides,53120,2018,Medium
+482,KTM,Classic 350,Brakes,Brake pads wearing out too fast,54929,2016,Low
+483,Bajaj,R15,Electrical,Engine making unusual noise,2826,2015,Medium
+484,TVS,Classic 350,Electrical,Bike not starting consistently,18868,2017,Medium
+485,Royal Enfield,Pulsar,Fuel System,Battery drains quickly,13992,2020,Low
+486,TVS,Splendor,Overheating,Bike not starting consistently,23506,2018,Medium
+487,Suzuki,FZ,Transmission,Overheating during long rides,3178,2019,Low
+488,Yamaha,Access 125,Brakes,Overheating during long rides,55582,2022,High
+489,Yamaha,Access 125,Suspension,Gear shifting feels hard,14546,2015,Low
+490,Suzuki,Apache,Electrical,Battery drains quickly,34679,2018,High
+491,TVS,FZ,Fuel System,Poor mileage compared to normal,14663,2024,High
+492,Hero,Splendor,Fuel System,Excessive vibration at high speed,31006,2021,Low
+493,Suzuki,R15,Overheating,Poor mileage compared to normal,43953,2024,High
+494,Royal Enfield,Classic 350,Overheating,Bike not starting consistently,33019,2021,High
+495,Royal Enfield,Splendor,Engine,Poor mileage compared to normal,54919,2018,Medium
+496,TVS,Duke 200,Fuel System,Gear shifting feels hard,35463,2020,High
+497,Yamaha,Pulsar,Fuel System,Battery drains quickly,57088,2024,Low
+498,Royal Enfield,Apache,Fuel System,Engine making unusual noise,20857,2019,Low
+499,Suzuki,Splendor,Suspension,Overheating during long rides,52143,2020,Medium
+500,Honda,Access 125,Engine,Engine making unusual noise,15503,2017,Medium
+501,KTM,FZ,Transmission,Excessive vibration at high speed,12954,2022,High
+502,Royal Enfield,Apache,Transmission,Battery drains quickly,3939,2023,Low
+503,Royal Enfield,Apache,Fuel System,Overheating during long rides,37577,2021,High
+504,Yamaha,Duke 200,Electrical,Battery drains quickly,36676,2015,High
+505,Yamaha,R15,Electrical,Battery drains quickly,37372,2018,Low
+506,TVS,Pulsar,Engine,Overheating during long rides,24417,2017,Low
+507,KTM,Apache,Suspension,Brake pads wearing out too fast,58747,2021,High
+508,Yamaha,Access 125,Engine,Excessive vibration at high speed,46033,2015,Low
+509,Yamaha,R15,Brakes,Overheating during long rides,8764,2016,Low
+510,Honda,R15,Fuel System,Engine making unusual noise,7589,2020,High
+511,KTM,Pulsar,Transmission,Engine making unusual noise,11707,2016,High
+512,Yamaha,Access 125,Electrical,Bike not starting consistently,13500,2016,Low
+513,Bajaj,Splendor,Engine,Bike not starting consistently,14108,2017,High
+514,Hero,FZ,Brakes,Bike not starting consistently,24966,2015,Low
+515,Honda,Classic 350,Overheating,Bike not starting consistently,8147,2016,Low
+516,Suzuki,Pulsar,Overheating,Battery drains quickly,22075,2023,Medium
+517,Yamaha,FZ,Overheating,Engine making unusual noise,29277,2021,Low
+518,KTM,Apache,Suspension,Brake pads wearing out too fast,58256,2022,Low
+519,TVS,Pulsar,Electrical,Excessive vibration at high speed,41409,2016,High
+520,KTM,Splendor,Brakes,Battery drains quickly,50107,2018,High
+521,Hero,Pulsar,Brakes,Brake pads wearing out too fast,20517,2019,Medium
+522,Yamaha,R15,Overheating,Battery drains quickly,58113,2020,Medium
+523,Suzuki,Access 125,Engine,Bike not starting consistently,20291,2018,High
+524,Bajaj,Pulsar,Transmission,Bike not starting consistently,40843,2016,Low
+525,Suzuki,Duke 200,Overheating,Brake pads wearing out too fast,38211,2022,High
+526,Royal Enfield,Duke 200,Overheating,Poor mileage compared to normal,56756,2022,High
+527,TVS,Splendor,Engine,Gear shifting feels hard,51548,2020,Low
+528,Hero,Splendor,Fuel System,Battery drains quickly,26159,2018,Low
+529,Yamaha,Splendor,Brakes,Battery drains quickly,54759,2017,Medium
+530,Suzuki,R15,Overheating,Gear shifting feels hard,43336,2019,High
+531,Hero,R15,Electrical,Engine making unusual noise,25319,2021,Medium
+532,Honda,Access 125,Suspension,Engine making unusual noise,25615,2020,Low
+533,Royal Enfield,Duke 200,Suspension,Brake pads wearing out too fast,25452,2022,Medium
+534,Bajaj,Apache,Suspension,Poor mileage compared to normal,14908,2021,Medium
+535,Honda,Splendor,Engine,Excessive vibration at high speed,20578,2022,Medium
+536,TVS,Splendor,Fuel System,Overheating during long rides,28949,2021,Medium
+537,Royal Enfield,Apache,Overheating,Battery drains quickly,55786,2017,Low
+538,Hero,R15,Engine,Gear shifting feels hard,17461,2020,Low
+539,Suzuki,R15,Fuel System,Brake pads wearing out too fast,46193,2021,Low
+540,KTM,Access 125,Overheating,Bike not starting consistently,30680,2020,High
+541,TVS,R15,Overheating,Gear shifting feels hard,28086,2022,Medium
+542,Hero,FZ,Suspension,Gear shifting feels hard,22259,2024,High
+543,TVS,Apache,Fuel System,Battery drains quickly,22166,2021,Low
+544,Royal Enfield,R15,Fuel System,Excessive vibration at high speed,53147,2018,Low
+545,TVS,FZ,Electrical,Excessive vibration at high speed,9962,2019,Medium
+546,Hero,R15,Overheating,Battery drains quickly,59809,2018,Low
+547,Hero,Access 125,Overheating,Gear shifting feels hard,57774,2015,Medium
+548,KTM,Access 125,Overheating,Brake pads wearing out too fast,39666,2023,Low
+549,KTM,FZ,Fuel System,Bike not starting consistently,15079,2016,High
+550,Royal Enfield,Apache,Transmission,Gear shifting feels hard,32309,2022,Low
+551,Bajaj,Splendor,Brakes,Brake pads wearing out too fast,29878,2020,High
+552,Honda,Pulsar,Suspension,Gear shifting feels hard,44141,2022,High
+553,Bajaj,Classic 350,Engine,Engine making unusual noise,41505,2015,High
+554,Yamaha,Pulsar,Suspension,Brake pads wearing out too fast,32634,2020,Medium
+555,Yamaha,Duke 200,Electrical,Brake pads wearing out too fast,15707,2021,Low
+556,Royal Enfield,R15,Transmission,Poor mileage compared to normal,55567,2021,Low
+557,Hero,Access 125,Transmission,Engine making unusual noise,26176,2024,High
+558,TVS,Pulsar,Fuel System,Overheating during long rides,31056,2024,High
+559,TVS,Apache,Electrical,Poor mileage compared to normal,47741,2015,High
+560,KTM,Splendor,Engine,Bike not starting consistently,53058,2023,Low
+561,Suzuki,R15,Electrical,Excessive vibration at high speed,11274,2021,Medium
+562,Bajaj,Pulsar,Overheating,Battery drains quickly,56266,2023,Low
+563,Honda,Duke 200,Fuel System,Excessive vibration at high speed,651,2022,High
+564,Honda,Duke 200,Transmission,Brake pads wearing out too fast,50034,2024,Low
+565,KTM,Classic 350,Engine,Brake pads wearing out too fast,46668,2015,Low
+566,TVS,FZ,Electrical,Engine making unusual noise,51473,2016,Medium
+567,Royal Enfield,Access 125,Fuel System,Engine making unusual noise,58878,2024,High
+568,Yamaha,R15,Overheating,Gear shifting feels hard,22036,2015,Medium
+569,Royal Enfield,Apache,Electrical,Overheating during long rides,44851,2018,Medium
+570,Suzuki,Classic 350,Suspension,Excessive vibration at high speed,44077,2022,High
+571,Suzuki,R15,Fuel System,Excessive vibration at high speed,21111,2016,Low
+572,Suzuki,R15,Suspension,Excessive vibration at high speed,2889,2020,High
+573,Yamaha,Pulsar,Overheating,Battery drains quickly,20255,2020,Low
+574,Honda,FZ,Transmission,Engine making unusual noise,54314,2017,Medium
+575,TVS,Apache,Overheating,Overheating during long rides,32800,2019,High
+576,Royal Enfield,R15,Fuel System,Brake pads wearing out too fast,27031,2016,Low
+577,TVS,Duke 200,Suspension,Excessive vibration at high speed,1814,2023,Low
+578,KTM,Duke 200,Electrical,Bike not starting consistently,58782,2022,High
+579,Royal Enfield,Duke 200,Electrical,Bike not starting consistently,14735,2021,High
+580,Suzuki,FZ,Electrical,Poor mileage compared to normal,10687,2024,Low
+581,Yamaha,Duke 200,Overheating,Brake pads wearing out too fast,30287,2016,Medium
+582,Bajaj,Apache,Suspension,Poor mileage compared to normal,23090,2015,Low
+583,Bajaj,R15,Electrical,Engine making unusual noise,6734,2019,Medium
+584,KTM,Splendor,Engine,Bike not starting consistently,54888,2016,Low
+585,Royal Enfield,Pulsar,Suspension,Engine making unusual noise,55479,2016,Medium
+586,KTM,R15,Electrical,Engine making unusual noise,16715,2017,Medium
+587,Yamaha,Access 125,Electrical,Brake pads wearing out too fast,12944,2016,Medium
+588,Royal Enfield,Splendor,Suspension,Gear shifting feels hard,13493,2020,Medium
+589,Bajaj,Classic 350,Electrical,Engine making unusual noise,1335,2021,Medium
+590,Honda,FZ,Brakes,Overheating during long rides,59843,2022,Medium
+591,Royal Enfield,R15,Electrical,Bike not starting consistently,35449,2022,Medium
+592,KTM,R15,Overheating,Poor mileage compared to normal,53683,2018,Medium
+593,KTM,Splendor,Fuel System,Battery drains quickly,3872,2018,High
+594,Suzuki,Access 125,Transmission,Excessive vibration at high speed,16479,2015,Medium
+595,Yamaha,Apache,Fuel System,Excessive vibration at high speed,15172,2022,Medium
+596,Bajaj,Apache,Transmission,Excessive vibration at high speed,8194,2016,Medium
+597,Suzuki,Duke 200,Transmission,Overheating during long rides,48072,2022,High
+598,KTM,Pulsar,Engine,Battery drains quickly,42231,2020,Medium
+599,Bajaj,FZ,Transmission,Poor mileage compared to normal,50236,2024,Low
+600,TVS,Splendor,Transmission,Bike not starting consistently,22711,2017,High
+601,Royal Enfield,Pulsar,Overheating,Bike not starting consistently,14555,2024,Low
+602,Yamaha,Splendor,Transmission,Brake pads wearing out too fast,17085,2019,High
+603,Yamaha,Apache,Suspension,Engine making unusual noise,21499,2020,Medium
+604,Bajaj,Duke 200,Brakes,Excessive vibration at high speed,16134,2019,High
+605,Yamaha,Apache,Overheating,Poor mileage compared to normal,3209,2020,Low
+606,Honda,Duke 200,Engine,Excessive vibration at high speed,18200,2019,Medium
+607,Royal Enfield,FZ,Fuel System,Bike not starting consistently,35195,2018,Low
+608,Yamaha,Access 125,Suspension,Excessive vibration at high speed,25981,2018,Medium
+609,Suzuki,Classic 350,Suspension,Gear shifting feels hard,37468,2016,High
+610,Bajaj,Access 125,Electrical,Bike not starting consistently,54109,2018,Medium
+611,KTM,Apache,Transmission,Poor mileage compared to normal,32822,2017,Medium
+612,Bajaj,R15,Transmission,Engine making unusual noise,3886,2015,Medium
+613,TVS,Duke 200,Suspension,Bike not starting consistently,13414,2022,Low
+614,Honda,Duke 200,Electrical,Engine making unusual noise,41086,2020,Low
+615,Honda,R15,Electrical,Bike not starting consistently,7141,2020,Medium
+616,Yamaha,Classic 350,Overheating,Battery drains quickly,31675,2019,Medium
+617,Suzuki,Pulsar,Suspension,Overheating during long rides,26953,2022,High
+618,Honda,Pulsar,Transmission,Gear shifting feels hard,36090,2020,High
+619,KTM,Splendor,Electrical,Poor mileage compared to normal,17555,2017,Medium
+620,Yamaha,Duke 200,Fuel System,Battery drains quickly,32680,2017,High
+621,KTM,FZ,Transmission,Engine making unusual noise,3872,2022,Medium
+622,Bajaj,Pulsar,Transmission,Gear shifting feels hard,45610,2018,High
+623,KTM,Access 125,Brakes,Poor mileage compared to normal,52364,2019,Low
+624,Suzuki,Splendor,Fuel System,Engine making unusual noise,39390,2016,Low
+625,Hero,Access 125,Transmission,Overheating during long rides,5952,2016,High
+626,Royal Enfield,Classic 350,Fuel System,Brake pads wearing out too fast,18214,2015,Medium
+627,Yamaha,FZ,Brakes,Battery drains quickly,10071,2016,Medium
+628,TVS,Pulsar,Brakes,Battery drains quickly,44727,2016,High
+629,Honda,Access 125,Transmission,Brake pads wearing out too fast,18257,2015,High
+630,Honda,Apache,Overheating,Bike not starting consistently,40111,2023,High
+631,KTM,R15,Electrical,Bike not starting consistently,28360,2018,Low
+632,Yamaha,Pulsar,Engine,Overheating during long rides,35500,2015,High
+633,Bajaj,Apache,Transmission,Bike not starting consistently,47916,2024,Low
+634,Yamaha,Duke 200,Brakes,Poor mileage compared to normal,40725,2015,Low
+635,Royal Enfield,Duke 200,Electrical,Battery drains quickly,5133,2017,Low
+636,Honda,Classic 350,Fuel System,Gear shifting feels hard,11879,2023,High
+637,Royal Enfield,Duke 200,Fuel System,Excessive vibration at high speed,58278,2021,High
+638,Bajaj,Duke 200,Suspension,Brake pads wearing out too fast,35261,2017,High
+639,Royal Enfield,Splendor,Fuel System,Battery drains quickly,47709,2019,High
+640,Suzuki,Apache,Engine,Excessive vibration at high speed,54102,2018,High
+641,TVS,Duke 200,Brakes,Gear shifting feels hard,51745,2017,Medium
+642,Hero,Pulsar,Electrical,Brake pads wearing out too fast,54391,2016,Low
+643,Royal Enfield,Apache,Suspension,Overheating during long rides,53920,2024,High
+644,Honda,FZ,Suspension,Brake pads wearing out too fast,36547,2020,High
+645,KTM,Splendor,Brakes,Excessive vibration at high speed,56878,2015,Medium
+646,Hero,Duke 200,Transmission,Engine making unusual noise,47329,2020,Low
+647,Honda,Splendor,Fuel System,Poor mileage compared to normal,8576,2015,Medium
+648,TVS,R15,Suspension,Bike not starting consistently,10459,2022,Low
+649,Hero,Classic 350,Engine,Gear shifting feels hard,18006,2023,Medium
+650,Hero,Pulsar,Transmission,Gear shifting feels hard,55359,2024,Medium
+651,KTM,Classic 350,Transmission,Gear shifting feels hard,22428,2016,Medium
+652,Honda,Access 125,Overheating,Brake pads wearing out too fast,33099,2023,High
+653,Yamaha,Classic 350,Brakes,Battery drains quickly,41163,2022,High
+654,Yamaha,Pulsar,Engine,Excessive vibration at high speed,30469,2021,Medium
+655,Honda,Classic 350,Fuel System,Overheating during long rides,3680,2021,Medium
+656,TVS,Classic 350,Engine,Gear shifting feels hard,25417,2022,High
+657,Bajaj,Duke 200,Transmission,Overheating during long rides,53055,2024,High
+658,TVS,Pulsar,Fuel System,Battery drains quickly,53839,2021,Medium
+659,Yamaha,Apache,Engine,Overheating during long rides,49142,2016,Medium
+660,Bajaj,FZ,Overheating,Excessive vibration at high speed,1631,2023,High
+661,Honda,Pulsar,Engine,Poor mileage compared to normal,48761,2023,Medium
+662,KTM,FZ,Engine,Excessive vibration at high speed,10255,2018,Low
+663,Hero,Access 125,Fuel System,Excessive vibration at high speed,33342,2020,Low
+664,KTM,Classic 350,Engine,Gear shifting feels hard,44840,2024,High
+665,Yamaha,Apache,Fuel System,Overheating during long rides,22646,2024,Low
+666,TVS,Duke 200,Brakes,Overheating during long rides,6284,2023,Low
+667,KTM,Apache,Fuel System,Engine making unusual noise,23110,2022,High
+668,Suzuki,Duke 200,Overheating,Gear shifting feels hard,17296,2017,Low
+669,Suzuki,Classic 350,Engine,Bike not starting consistently,24181,2019,Low
+670,Suzuki,Pulsar,Electrical,Poor mileage compared to normal,10466,2023,Medium
+671,Bajaj,Duke 200,Brakes,Brake pads wearing out too fast,36958,2022,Medium
+672,Bajaj,Splendor,Electrical,Brake pads wearing out too fast,13232,2017,Low
+673,Hero,R15,Suspension,Overheating during long rides,24497,2017,Medium
+674,Yamaha,FZ,Suspension,Overheating during long rides,34562,2022,Medium
+675,Hero,R15,Electrical,Overheating during long rides,37670,2016,Low
+676,Royal Enfield,Classic 350,Fuel System,Poor mileage compared to normal,17007,2019,High
+677,Honda,R15,Engine,Engine making unusual noise,14367,2020,Medium
+678,Honda,Access 125,Suspension,Brake pads wearing out too fast,49063,2019,Medium
+679,KTM,Duke 200,Brakes,Poor mileage compared to normal,48425,2015,Low
+680,Honda,R15,Fuel System,Brake pads wearing out too fast,50202,2019,Low
+681,Honda,FZ,Fuel System,Poor mileage compared to normal,38739,2015,Low
+682,Suzuki,Duke 200,Engine,Gear shifting feels hard,3215,2022,High
+683,Bajaj,FZ,Transmission,Brake pads wearing out too fast,22513,2016,Medium
+684,Honda,Apache,Overheating,Bike not starting consistently,54529,2022,High
+685,Bajaj,R15,Electrical,Engine making unusual noise,35822,2022,High
+686,Hero,Classic 350,Transmission,Excessive vibration at high speed,32800,2018,Low
+687,Yamaha,Classic 350,Brakes,Battery drains quickly,40833,2019,High
+688,KTM,Splendor,Transmission,Excessive vibration at high speed,21961,2021,Medium
+689,Suzuki,Apache,Electrical,Excessive vibration at high speed,28402,2019,Medium
+690,Yamaha,Access 125,Fuel System,Gear shifting feels hard,19225,2022,High
+691,KTM,Pulsar,Electrical,Gear shifting feels hard,37408,2020,Medium
+692,TVS,FZ,Electrical,Poor mileage compared to normal,44021,2024,High
+693,Honda,Pulsar,Overheating,Overheating during long rides,9833,2021,Low
+694,Suzuki,Apache,Brakes,Engine making unusual noise,25439,2019,Medium
+695,Yamaha,Access 125,Electrical,Overheating during long rides,2873,2024,Low
+696,KTM,Access 125,Electrical,Gear shifting feels hard,48457,2024,Medium
+697,KTM,Access 125,Fuel System,Gear shifting feels hard,59730,2016,High
+698,TVS,Pulsar,Suspension,Poor mileage compared to normal,17735,2016,Low
+699,Bajaj,R15,Electrical,Excessive vibration at high speed,41069,2015,Medium
+700,Royal Enfield,Classic 350,Overheating,Gear shifting feels hard,11563,2020,Low
+701,KTM,Classic 350,Electrical,Bike not starting consistently,15282,2016,Low
+702,Honda,Apache,Brakes,Gear shifting feels hard,37296,2020,Low
+703,Honda,FZ,Brakes,Excessive vibration at high speed,55279,2015,Medium
+704,KTM,Splendor,Electrical,Gear shifting feels hard,15710,2023,High
+705,Honda,Classic 350,Electrical,Engine making unusual noise,43315,2024,High
+706,Hero,R15,Engine,Excessive vibration at high speed,50827,2024,Low
+707,Suzuki,Access 125,Suspension,Brake pads wearing out too fast,13574,2021,High
+708,TVS,Duke 200,Suspension,Engine making unusual noise,14599,2020,High
+709,Bajaj,R15,Electrical,Excessive vibration at high speed,47119,2015,Medium
+710,KTM,R15,Electrical,Poor mileage compared to normal,33586,2017,Low
+711,KTM,Classic 350,Transmission,Poor mileage compared to normal,26627,2018,Medium
+712,Bajaj,R15,Electrical,Bike not starting consistently,19524,2023,Low
+713,TVS,Classic 350,Engine,Battery drains quickly,36285,2021,Medium
+714,KTM,FZ,Overheating,Poor mileage compared to normal,57074,2022,Medium
+715,TVS,Access 125,Brakes,Brake pads wearing out too fast,4922,2018,Medium
+716,Yamaha,Apache,Brakes,Bike not starting consistently,14970,2016,Low
+717,Hero,Duke 200,Suspension,Bike not starting consistently,48448,2018,Medium
+718,Yamaha,Apache,Overheating,Brake pads wearing out too fast,23759,2023,High
+719,Royal Enfield,Access 125,Electrical,Poor mileage compared to normal,12541,2016,Medium
+720,TVS,Apache,Electrical,Overheating during long rides,37873,2016,Low
+721,Honda,Pulsar,Brakes,Excessive vibration at high speed,20704,2022,Low
+722,TVS,Duke 200,Electrical,Excessive vibration at high speed,23186,2023,Medium
+723,TVS,Access 125,Electrical,Excessive vibration at high speed,46881,2020,High
+724,Honda,R15,Engine,Battery drains quickly,51270,2016,Low
+725,Hero,Access 125,Electrical,Poor mileage compared to normal,45371,2017,Low
+726,Hero,FZ,Fuel System,Battery drains quickly,56902,2018,Medium
+727,KTM,Pulsar,Suspension,Gear shifting feels hard,45508,2022,Low
+728,Hero,Splendor,Suspension,Poor mileage compared to normal,56201,2020,Medium
+729,TVS,FZ,Brakes,Excessive vibration at high speed,16257,2023,Low
+730,Honda,Pulsar,Overheating,Excessive vibration at high speed,27921,2018,Medium
+731,Yamaha,R15,Fuel System,Bike not starting consistently,51346,2016,High
+732,Suzuki,Classic 350,Suspension,Engine making unusual noise,12923,2017,High
+733,Royal Enfield,Classic 350,Overheating,Battery drains quickly,11402,2016,Medium
+734,KTM,Duke 200,Electrical,Overheating during long rides,8536,2016,High
+735,Hero,Splendor,Suspension,Excessive vibration at high speed,20668,2020,Medium
+736,Honda,Duke 200,Suspension,Poor mileage compared to normal,56524,2015,High
+737,Bajaj,FZ,Brakes,Overheating during long rides,36765,2019,Medium
+738,Yamaha,Splendor,Brakes,Excessive vibration at high speed,48764,2016,Medium
+739,KTM,Apache,Transmission,Engine making unusual noise,16975,2021,Medium
+740,TVS,Classic 350,Fuel System,Gear shifting feels hard,31299,2021,High
+741,Hero,FZ,Transmission,Overheating during long rides,54783,2023,Medium
+742,Suzuki,R15,Engine,Battery drains quickly,2443,2017,Medium
+743,Bajaj,Apache,Fuel System,Gear shifting feels hard,53359,2018,High
+744,TVS,R15,Transmission,Excessive vibration at high speed,1443,2017,High
+745,Royal Enfield,FZ,Brakes,Bike not starting consistently,57412,2016,High
+746,Suzuki,Classic 350,Overheating,Gear shifting feels hard,3226,2018,Medium
+747,Honda,Duke 200,Fuel System,Overheating during long rides,58183,2022,Low
+748,Honda,Pulsar,Electrical,Battery drains quickly,11224,2021,Low
+749,Honda,Splendor,Overheating,Gear shifting feels hard,58856,2024,Low
+750,Suzuki,Apache,Suspension,Poor mileage compared to normal,39699,2019,Low
+751,Honda,FZ,Fuel System,Poor mileage compared to normal,23180,2018,Low
+752,Suzuki,FZ,Suspension,Bike not starting consistently,32561,2024,Low
+753,Yamaha,Access 125,Brakes,Bike not starting consistently,57135,2017,Medium
+754,Yamaha,Splendor,Suspension,Bike not starting consistently,12374,2016,Low
+755,TVS,Classic 350,Electrical,Poor mileage compared to normal,56221,2021,Medium
+756,Honda,FZ,Suspension,Gear shifting feels hard,7778,2021,High
+757,Yamaha,FZ,Fuel System,Brake pads wearing out too fast,32197,2023,High
+758,Suzuki,Duke 200,Suspension,Engine making unusual noise,12538,2023,High
+759,TVS,Access 125,Overheating,Poor mileage compared to normal,45843,2016,High
+760,Royal Enfield,Splendor,Suspension,Battery drains quickly,10406,2021,Medium
+761,Honda,Classic 350,Transmission,Poor mileage compared to normal,7772,2021,Medium
+762,Bajaj,Classic 350,Transmission,Battery drains quickly,26131,2019,Medium
+763,KTM,FZ,Suspension,Engine making unusual noise,17729,2016,High
+764,Royal Enfield,FZ,Suspension,Bike not starting consistently,40201,2017,Low
+765,Hero,R15,Overheating,Bike not starting consistently,6979,2015,Low
+766,TVS,Access 125,Brakes,Brake pads wearing out too fast,25887,2024,Medium
+767,Hero,Access 125,Electrical,Brake pads wearing out too fast,27602,2015,High
+768,Royal Enfield,Splendor,Engine,Poor mileage compared to normal,53507,2016,Medium
+769,Hero,R15,Overheating,Poor mileage compared to normal,17607,2018,Medium
+770,Hero,Splendor,Overheating,Brake pads wearing out too fast,37037,2024,High
+771,Honda,R15,Electrical,Engine making unusual noise,32736,2019,Medium
+772,Royal Enfield,Access 125,Brakes,Poor mileage compared to normal,45332,2015,Low
+773,Suzuki,Duke 200,Electrical,Excessive vibration at high speed,59809,2016,Medium
+774,Suzuki,R15,Brakes,Battery drains quickly,41145,2019,Medium
+775,TVS,Access 125,Suspension,Excessive vibration at high speed,59600,2022,High
+776,KTM,Apache,Electrical,Excessive vibration at high speed,49690,2020,Medium
+777,KTM,Apache,Suspension,Excessive vibration at high speed,38513,2024,Low
+778,TVS,Access 125,Engine,Bike not starting consistently,26903,2015,High
+779,Yamaha,Access 125,Overheating,Bike not starting consistently,20125,2023,High
+780,TVS,Apache,Suspension,Engine making unusual noise,3279,2022,Medium
+781,Hero,Pulsar,Brakes,Battery drains quickly,38642,2022,Low
+782,Honda,Apache,Fuel System,Brake pads wearing out too fast,32749,2017,High
+783,TVS,Duke 200,Overheating,Engine making unusual noise,18374,2020,Low
+784,Yamaha,Access 125,Overheating,Gear shifting feels hard,26745,2024,Medium
+785,Royal Enfield,R15,Engine,Engine making unusual noise,3160,2022,Low
+786,Bajaj,Access 125,Suspension,Bike not starting consistently,43301,2021,High
+787,Yamaha,Pulsar,Suspension,Engine making unusual noise,35718,2024,Low
+788,Yamaha,FZ,Transmission,Bike not starting consistently,49637,2021,High
+789,Suzuki,Apache,Overheating,Poor mileage compared to normal,19986,2021,High
+790,Royal Enfield,Pulsar,Suspension,Poor mileage compared to normal,52792,2024,Low
+791,Honda,Pulsar,Electrical,Bike not starting consistently,41818,2015,High
+792,Yamaha,Classic 350,Engine,Bike not starting consistently,20002,2022,High
+793,Honda,Classic 350,Brakes,Bike not starting consistently,13579,2023,High
+794,Honda,Apache,Brakes,Brake pads wearing out too fast,36028,2016,High
+795,Bajaj,Duke 200,Brakes,Overheating during long rides,8620,2023,High
+796,TVS,R15,Brakes,Bike not starting consistently,18933,2021,High
+797,Royal Enfield,Duke 200,Suspension,Overheating during long rides,38235,2019,Low
+798,Honda,Duke 200,Suspension,Overheating during long rides,43774,2022,Low
+799,Yamaha,R15,Electrical,Brake pads wearing out too fast,8321,2019,Medium
+800,KTM,Apache,Engine,Overheating during long rides,43636,2016,High
+801,Royal Enfield,Access 125,Brakes,Brake pads wearing out too fast,48477,2020,Medium
+802,Yamaha,R15,Suspension,Bike not starting consistently,42316,2020,High
+803,Yamaha,Pulsar,Transmission,Bike not starting consistently,48141,2024,Low
+804,Yamaha,R15,Electrical,Overheating during long rides,43345,2017,High
+805,Royal Enfield,FZ,Transmission,Poor mileage compared to normal,59817,2020,High
+806,Suzuki,R15,Suspension,Brake pads wearing out too fast,53792,2020,Medium
+807,Hero,Pulsar,Fuel System,Bike not starting consistently,46258,2023,High
+808,Royal Enfield,Pulsar,Fuel System,Battery drains quickly,26383,2017,Low
+809,Honda,Splendor,Suspension,Bike not starting consistently,55739,2020,High
+810,Hero,Pulsar,Engine,Battery drains quickly,56884,2022,Medium
+811,Yamaha,Access 125,Engine,Excessive vibration at high speed,35277,2024,Medium
+812,Bajaj,Classic 350,Suspension,Gear shifting feels hard,47155,2021,Medium
+813,TVS,Apache,Overheating,Poor mileage compared to normal,14019,2017,Medium
+814,Honda,R15,Brakes,Bike not starting consistently,25317,2017,Medium
+815,Bajaj,Duke 200,Fuel System,Brake pads wearing out too fast,12099,2018,Medium
+816,Bajaj,Access 125,Transmission,Engine making unusual noise,9901,2021,Medium
+817,Royal Enfield,FZ,Fuel System,Poor mileage compared to normal,5969,2023,Low
+818,TVS,Splendor,Engine,Excessive vibration at high speed,49945,2021,High
+819,Royal Enfield,R15,Electrical,Gear shifting feels hard,11168,2019,High
+820,KTM,FZ,Electrical,Gear shifting feels hard,5090,2023,High
+821,TVS,Classic 350,Transmission,Overheating during long rides,35333,2020,Medium
+822,Royal Enfield,Classic 350,Transmission,Engine making unusual noise,30511,2022,High
+823,Hero,FZ,Electrical,Bike not starting consistently,31827,2020,Low
+824,TVS,Duke 200,Brakes,Battery drains quickly,5454,2015,High
+825,KTM,Classic 350,Overheating,Engine making unusual noise,58426,2023,Medium
+826,Yamaha,Apache,Transmission,Brake pads wearing out too fast,23630,2019,Medium
+827,Hero,Access 125,Electrical,Engine making unusual noise,14547,2020,Medium
+828,Bajaj,R15,Electrical,Overheating during long rides,38905,2024,Medium
+829,Suzuki,Apache,Electrical,Poor mileage compared to normal,1260,2017,Low
+830,KTM,FZ,Overheating,Gear shifting feels hard,41918,2016,Medium
+831,Bajaj,Splendor,Electrical,Engine making unusual noise,25118,2021,High
+832,Bajaj,Splendor,Electrical,Gear shifting feels hard,44810,2015,Medium
+833,Royal Enfield,Splendor,Engine,Overheating during long rides,19342,2023,Low
+834,KTM,Pulsar,Brakes,Poor mileage compared to normal,42421,2022,Medium
+835,Hero,Classic 350,Brakes,Battery drains quickly,9821,2017,Medium
+836,Royal Enfield,Splendor,Electrical,Battery drains quickly,22593,2020,High
+837,Suzuki,Pulsar,Engine,Bike not starting consistently,11660,2018,Low
+838,TVS,Pulsar,Fuel System,Engine making unusual noise,10254,2017,Medium
+839,Yamaha,Access 125,Overheating,Gear shifting feels hard,18699,2023,High
+840,Royal Enfield,Apache,Electrical,Overheating during long rides,653,2022,Low
+841,Royal Enfield,Pulsar,Fuel System,Gear shifting feels hard,2357,2022,High
+842,Honda,Access 125,Engine,Poor mileage compared to normal,25821,2021,Medium
+843,Yamaha,Pulsar,Overheating,Battery drains quickly,24143,2024,Medium
+844,Honda,Pulsar,Transmission,Poor mileage compared to normal,20425,2023,Medium
+845,Yamaha,Apache,Overheating,Battery drains quickly,12048,2015,High
+846,Hero,Classic 350,Brakes,Gear shifting feels hard,11294,2023,Medium
+847,Yamaha,Splendor,Engine,Excessive vibration at high speed,4147,2019,Low
+848,Suzuki,Classic 350,Fuel System,Poor mileage compared to normal,7587,2023,Medium
+849,Hero,Classic 350,Transmission,Brake pads wearing out too fast,32106,2022,Low
+850,Hero,Classic 350,Brakes,Engine making unusual noise,4376,2018,Low
+851,Suzuki,Access 125,Brakes,Bike not starting consistently,28210,2018,High
+852,Bajaj,Classic 350,Suspension,Bike not starting consistently,28899,2019,Low
+853,Bajaj,Apache,Electrical,Battery drains quickly,36533,2016,Low
+854,Royal Enfield,Splendor,Engine,Bike not starting consistently,53488,2015,High
+855,Suzuki,Apache,Brakes,Excessive vibration at high speed,56004,2024,Low
+856,Suzuki,Apache,Fuel System,Battery drains quickly,4265,2015,Low
+857,KTM,Duke 200,Overheating,Engine making unusual noise,53016,2023,Low
+858,TVS,Apache,Electrical,Bike not starting consistently,31920,2020,Medium
+859,Bajaj,Classic 350,Suspension,Bike not starting consistently,11109,2019,Medium
+860,Royal Enfield,Splendor,Brakes,Engine making unusual noise,52232,2021,Medium
+861,Honda,Classic 350,Transmission,Overheating during long rides,51903,2024,High
+862,KTM,Classic 350,Brakes,Excessive vibration at high speed,48098,2021,High
+863,Bajaj,Access 125,Overheating,Gear shifting feels hard,54611,2021,High
+864,Honda,Pulsar,Engine,Poor mileage compared to normal,19865,2018,Low
+865,TVS,FZ,Electrical,Poor mileage compared to normal,55399,2016,High
+866,Honda,Splendor,Transmission,Bike not starting consistently,32821,2018,High
+867,KTM,FZ,Engine,Excessive vibration at high speed,32797,2022,Low
+868,Honda,FZ,Suspension,Bike not starting consistently,5966,2020,Low
+869,KTM,Splendor,Suspension,Gear shifting feels hard,23665,2018,High
+870,TVS,FZ,Transmission,Poor mileage compared to normal,31760,2016,High
+871,TVS,Access 125,Overheating,Overheating during long rides,39389,2018,High
+872,TVS,Apache,Suspension,Engine making unusual noise,44601,2017,Medium
+873,Royal Enfield,Apache,Transmission,Excessive vibration at high speed,37241,2017,Low
+874,Suzuki,Pulsar,Electrical,Excessive vibration at high speed,56599,2019,Medium
+875,Hero,Splendor,Overheating,Excessive vibration at high speed,4492,2016,Low
+876,KTM,Splendor,Electrical,Bike not starting consistently,15886,2020,High
+877,Hero,Classic 350,Suspension,Poor mileage compared to normal,29774,2018,High
+878,KTM,Classic 350,Fuel System,Brake pads wearing out too fast,13385,2021,Low
+879,Royal Enfield,Duke 200,Suspension,Bike not starting consistently,5672,2016,Medium
+880,Hero,Pulsar,Brakes,Engine making unusual noise,8727,2019,High
+881,KTM,Duke 200,Electrical,Brake pads wearing out too fast,44517,2018,High
+882,Hero,R15,Brakes,Poor mileage compared to normal,54378,2018,Low
+883,Suzuki,Apache,Transmission,Overheating during long rides,49987,2016,Low
+884,TVS,Duke 200,Overheating,Engine making unusual noise,10230,2022,Medium
+885,Bajaj,FZ,Transmission,Battery drains quickly,16024,2017,Medium
+886,Suzuki,Access 125,Overheating,Bike not starting consistently,40591,2021,Low
+887,Honda,Classic 350,Brakes,Overheating during long rides,35824,2016,Low
+888,Suzuki,Pulsar,Transmission,Engine making unusual noise,28698,2019,Medium
+889,TVS,Classic 350,Overheating,Bike not starting consistently,36074,2015,Low
+890,Hero,Apache,Overheating,Engine making unusual noise,25771,2019,Medium
+891,Honda,Splendor,Transmission,Poor mileage compared to normal,17204,2023,High
+892,Yamaha,Splendor,Fuel System,Bike not starting consistently,16355,2019,Medium
+893,Hero,Access 125,Overheating,Battery drains quickly,54502,2017,Low
+894,TVS,FZ,Suspension,Battery drains quickly,44054,2022,Low
+895,Honda,Classic 350,Electrical,Battery drains quickly,26079,2018,Medium
+896,Royal Enfield,Access 125,Suspension,Gear shifting feels hard,50044,2020,Low
+897,Royal Enfield,Splendor,Engine,Bike not starting consistently,53421,2022,Low
+898,Yamaha,R15,Engine,Gear shifting feels hard,2963,2017,Low
+899,TVS,Pulsar,Suspension,Brake pads wearing out too fast,29511,2019,Low
+900,TVS,Classic 350,Engine,Brake pads wearing out too fast,16682,2022,Medium
+901,KTM,FZ,Brakes,Excessive vibration at high speed,13904,2016,Low
+902,Hero,Classic 350,Transmission,Battery drains quickly,11624,2022,High
+903,Yamaha,Classic 350,Electrical,Engine making unusual noise,50026,2015,Medium
+904,Yamaha,Classic 350,Overheating,Brake pads wearing out too fast,48296,2015,High
+905,Yamaha,FZ,Overheating,Excessive vibration at high speed,41520,2015,High
+906,Suzuki,Splendor,Engine,Engine making unusual noise,38401,2015,High
+907,KTM,Pulsar,Suspension,Gear shifting feels hard,51314,2015,High
+908,Suzuki,Classic 350,Overheating,Excessive vibration at high speed,30716,2022,High
+909,Yamaha,Access 125,Overheating,Overheating during long rides,45737,2019,High
+910,Bajaj,R15,Overheating,Bike not starting consistently,50100,2019,Low
+911,Hero,Apache,Overheating,Overheating during long rides,28846,2017,Medium
+912,Royal Enfield,Duke 200,Electrical,Brake pads wearing out too fast,36174,2024,High
+913,Suzuki,Access 125,Electrical,Overheating during long rides,15264,2021,High
+914,Hero,FZ,Brakes,Battery drains quickly,47836,2023,High
+915,Bajaj,Pulsar,Engine,Excessive vibration at high speed,40598,2022,High
+916,Hero,Pulsar,Suspension,Bike not starting consistently,44025,2018,Low
+917,TVS,Classic 350,Engine,Bike not starting consistently,33256,2021,Medium
+918,Yamaha,Pulsar,Transmission,Overheating during long rides,50874,2022,Low
+919,Bajaj,FZ,Electrical,Excessive vibration at high speed,30725,2017,Low
+920,Yamaha,Apache,Transmission,Battery drains quickly,46140,2016,High
+921,Royal Enfield,R15,Overheating,Poor mileage compared to normal,34429,2024,Low
+922,Honda,Classic 350,Overheating,Bike not starting consistently,32873,2024,Low
+923,Hero,R15,Transmission,Overheating during long rides,34123,2017,Medium
+924,Suzuki,Classic 350,Overheating,Excessive vibration at high speed,30096,2023,High
+925,Yamaha,R15,Suspension,Poor mileage compared to normal,56784,2021,Medium
+926,Royal Enfield,Duke 200,Suspension,Excessive vibration at high speed,5149,2020,Low
+927,KTM,Pulsar,Brakes,Brake pads wearing out too fast,56649,2022,Low
+928,Hero,Access 125,Brakes,Bike not starting consistently,4969,2021,Low
+929,Suzuki,Duke 200,Overheating,Excessive vibration at high speed,53163,2017,Low
+930,Royal Enfield,Pulsar,Transmission,Bike not starting consistently,32573,2021,High
+931,TVS,Duke 200,Brakes,Brake pads wearing out too fast,48347,2017,High
+932,Hero,R15,Brakes,Overheating during long rides,38909,2021,Low
+933,Honda,Classic 350,Transmission,Poor mileage compared to normal,24393,2016,Medium
+934,TVS,FZ,Brakes,Bike not starting consistently,11734,2024,Low
+935,Bajaj,Classic 350,Transmission,Gear shifting feels hard,56701,2024,Medium
+936,Suzuki,Access 125,Fuel System,Engine making unusual noise,57629,2024,Medium
+937,Hero,Pulsar,Transmission,Battery drains quickly,41330,2015,Low
+938,Hero,R15,Engine,Poor mileage compared to normal,36510,2021,Medium
+939,Royal Enfield,Splendor,Overheating,Poor mileage compared to normal,27587,2019,Medium
+940,Hero,Apache,Overheating,Excessive vibration at high speed,10543,2024,Low
+941,Honda,Classic 350,Suspension,Brake pads wearing out too fast,27515,2021,Medium
+942,Bajaj,Duke 200,Brakes,Poor mileage compared to normal,13630,2022,Low
+943,KTM,R15,Suspension,Overheating during long rides,49520,2015,High
+944,Suzuki,Splendor,Transmission,Bike not starting consistently,56542,2024,Medium
+945,Suzuki,Apache,Transmission,Battery drains quickly,4186,2015,Medium
+946,Bajaj,Splendor,Transmission,Battery drains quickly,56368,2016,High
+947,Bajaj,Duke 200,Overheating,Overheating during long rides,25955,2019,Low
+948,KTM,Duke 200,Electrical,Brake pads wearing out too fast,25341,2022,Low
+949,TVS,Access 125,Fuel System,Gear shifting feels hard,40826,2015,High
+950,Yamaha,Splendor,Brakes,Battery drains quickly,34224,2024,Medium
+951,Bajaj,Splendor,Engine,Gear shifting feels hard,42530,2018,Low
+952,KTM,R15,Brakes,Bike not starting consistently,56433,2021,High
+953,Honda,Classic 350,Fuel System,Overheating during long rides,59790,2015,High
+954,TVS,Pulsar,Transmission,Overheating during long rides,12884,2022,Medium
+955,Royal Enfield,Apache,Transmission,Bike not starting consistently,57638,2019,Low
+956,Royal Enfield,Classic 350,Engine,Overheating during long rides,55230,2024,Low
+957,TVS,FZ,Transmission,Battery drains quickly,52873,2021,High
+958,Hero,Splendor,Transmission,Battery drains quickly,28190,2019,Medium
+959,Royal Enfield,Splendor,Engine,Overheating during long rides,52250,2021,Low
+960,TVS,FZ,Electrical,Poor mileage compared to normal,41728,2019,Medium
+961,KTM,Splendor,Overheating,Poor mileage compared to normal,29386,2017,Low
+962,Royal Enfield,Access 125,Fuel System,Gear shifting feels hard,47359,2021,Medium
+963,KTM,Classic 350,Fuel System,Excessive vibration at high speed,18934,2019,High
+964,Bajaj,R15,Transmission,Excessive vibration at high speed,29434,2018,Medium
+965,Bajaj,Apache,Transmission,Excessive vibration at high speed,28675,2017,Medium
+966,Bajaj,Apache,Fuel System,Gear shifting feels hard,22550,2024,Low
+967,KTM,Splendor,Electrical,Brake pads wearing out too fast,50692,2021,High
+968,Honda,Classic 350,Engine,Brake pads wearing out too fast,4122,2020,High
+969,Honda,Classic 350,Engine,Poor mileage compared to normal,48280,2016,Low
+970,Suzuki,Splendor,Electrical,Battery drains quickly,25262,2017,High
+971,Bajaj,FZ,Engine,Engine making unusual noise,2383,2018,Medium
+972,Yamaha,Pulsar,Overheating,Gear shifting feels hard,14081,2017,High
+973,Bajaj,Pulsar,Suspension,Excessive vibration at high speed,48670,2019,Low
+974,Honda,Duke 200,Transmission,Poor mileage compared to normal,11815,2021,Medium
+975,KTM,Classic 350,Transmission,Bike not starting consistently,55741,2015,High
+976,Honda,Classic 350,Transmission,Gear shifting feels hard,1251,2023,Low
+977,Yamaha,R15,Overheating,Poor mileage compared to normal,34241,2017,High
+978,KTM,R15,Suspension,Engine making unusual noise,14758,2022,High
+979,KTM,Duke 200,Electrical,Battery drains quickly,50262,2015,Low
+980,KTM,Splendor,Engine,Overheating during long rides,45244,2019,High
+981,Hero,Access 125,Transmission,Engine making unusual noise,58227,2016,Medium
+982,Bajaj,Pulsar,Transmission,Engine making unusual noise,19054,2017,High
+983,TVS,Splendor,Fuel System,Battery drains quickly,49338,2017,Medium
+984,Suzuki,Splendor,Suspension,Excessive vibration at high speed,9013,2016,High
+985,Hero,Pulsar,Suspension,Bike not starting consistently,40756,2021,Low
+986,Honda,Splendor,Suspension,Battery drains quickly,11593,2023,Low
+987,Bajaj,Apache,Engine,Gear shifting feels hard,7426,2019,High
+988,KTM,Pulsar,Fuel System,Battery drains quickly,11412,2023,High
+989,Royal Enfield,FZ,Brakes,Engine making unusual noise,23743,2017,High
+990,Bajaj,R15,Engine,Overheating during long rides,30037,2020,Low
+991,Suzuki,Duke 200,Electrical,Bike not starting consistently,33841,2022,Low
+992,Suzuki,FZ,Brakes,Overheating during long rides,56498,2021,High
+993,Honda,R15,Transmission,Overheating during long rides,9130,2024,Low
+994,Suzuki,Splendor,Fuel System,Poor mileage compared to normal,4614,2022,Low
+995,Honda,FZ,Suspension,Brake pads wearing out too fast,40497,2017,Medium
+996,Honda,Apache,Electrical,Gear shifting feels hard,30914,2019,Low
+997,Hero,Access 125,Brakes,Brake pads wearing out too fast,34380,2021,High
+998,Royal Enfield,Access 125,Engine,Overheating during long rides,43391,2024,Low
+999,KTM,R15,Engine,Brake pads wearing out too fast,54202,2017,High
+1000,Royal Enfield,R15,Electrical,Gear shifting feels hard,36663,2023,High
